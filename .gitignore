@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# MacOS system files
+.DS_Store
+
+# Micropython / Circuitpython specific
+.micropico
+
+# Compiled firmware or UF2 files
+*.uf2
+*.bin
+*.elf
+
+# Logs
+*.log
+
+# Local environment
+.env
+
+# Remote workspace folders
+Mpy Remote Workspace/
